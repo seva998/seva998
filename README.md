@@ -3,8 +3,11 @@
 [![Hi](https://github.com/seva998/seva998/blob/main/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)](https://t.me/Vsevolod_the_first)
 
 ========================================================================================
-
-[![telegram](https://github.com/seva998/seva998/blob/main/telegram.png)](https://t.me/Vsevolod_the_first)
+<div id="badges">
+  <a href="https://t.me/Vsevolod_the_first">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 ========================================================================================
 
