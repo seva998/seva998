@@ -21,3 +21,6 @@
   <img src="https://github.com/seva998/seva998/blob/main/gjz3w.gif" width="100"/>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=4000&color=FFC0CB&width=600&lines=👾+My+skills+and+what+can+learnig.)](https://t.me/Vsevolod_the_first)
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,cpp,maven,java,mysql,postgres,qt,spring,stackoverflow,visualstudio,)](https://skillicons.dev)
