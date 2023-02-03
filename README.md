@@ -1,6 +1,6 @@
 [![Header](https://github.com/seva998/seva998/blob/main/HEADER.png)](https://vk.com/s.maklashov)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=2000&color=FFFFFF&width=435&lines= Hello+there!)](https://t.me/Vsevolod_the_first) ![](https://github.com/seva998/seva998/blob/main/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hello there! ![](https://github.com/seva998/seva998/blob/main/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ========================================================================================
 
