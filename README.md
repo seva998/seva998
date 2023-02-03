@@ -1,7 +1,5 @@
 [![Header](https://github.com/seva998/seva998/blob/main/HEADER.png)](https://vk.com/s.maklashov)
 
-[![Hi](https://github.com/seva998/seva998/blob/main/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)](https://t.me/Vsevolod_the_first)
-
 ---
 <div id="badges">
   <a href="https://t.me/Vsevolod_the_first">
