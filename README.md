@@ -18,7 +18,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=4000&color=FFFFFF&width=600&lines=👾+I+like+Space.)](https://t.me/Vsevolod_the_first)
 
 <div id="space" align="center">
-  <img src="https://github.com/seva998/seva998/blob/main/gjz3w.gif" width="100"/>
+  <img src="https://github.com/seva998/seva998/blob/main/gjz3w.gif" width="500"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=4000&color=FFC0CB&width=600&lines=👾+My+skills+and+what+can+learnig.)](https://t.me/Vsevolod_the_first)
