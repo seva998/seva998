@@ -1,7 +1,7 @@
 [![Header](https://github.com/seva998/seva998/blob/main/HEADER.png)](https://vk.com/s.maklashov)
 
 <div id="space" align="center">
-  <img src="https://github.com/seva998/seva998/blob/main/gjz3w.gif" width="500"/>
+  <img src="https://github.com/seva998/seva998/blob/main/kosmos.gif" width="500"/>
 </div>
 
 ---
