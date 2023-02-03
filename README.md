@@ -1,5 +1,9 @@
 [![Header](https://github.com/seva998/seva998/blob/main/HEADER.png)](https://vk.com/s.maklashov)
 
+<div id="space" align="center">
+  <img src="https://github.com/seva998/seva998/blob/main/gjz3w.gif" width="500"/>
+</div>
+
 ---
 <div id="badges">
   <a href="https://t.me/Vsevolod_the_first">
