@@ -15,7 +15,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=4000&color=FFFFFF&width=600&lines=🖥️+Hello+everyone+my+name+is+Vsevolod+Maklashov.)](https://t.me/Vsevolod_the_first)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=4000&color=FFFFFF&width=600&lines=🖥️+I+am+a+junior+Java+Developer.)](https://t.me/Vsevolod_the_first)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=4000&color=FFFFFF&width=600&lines=🖥️+I+am+a+junior+Java/Python+Developer.)](https://t.me/Vsevolod_the_first)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=4000&color=FFFFFF&width=600&lines=👾+I+like+Space.)](https://t.me/Vsevolod_the_first)
 
